@@ -1,3 +1,5 @@
+Written directly in js
+
 # Folder Note Plugin
 
 Obsidian Plugin: Add description note to a folder. Generate card-style overview of folder. Make your vault to be a hierarchy note system.
